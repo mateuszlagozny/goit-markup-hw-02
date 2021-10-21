@@ -84,6 +84,8 @@ figure{
     display: inline-block;
     margin: 15px;
     background-color: #ffff;
+    border-radius: 4px;
+    
 
 }
 
@@ -145,4 +147,3 @@ footer {
     background-color: #2196F3;
     color: #ffff;
 }
-
